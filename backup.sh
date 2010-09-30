@@ -1,4 +1,15 @@
 #!/bin/bash
+#Encoding: UTF-8
+ 
+#============================================================================
+#
+#  Program: backup.sh
+#  Created by: Marco Antonio Gomez   < marcogomez<at>aptscience.org >
+#
+#  Last modified: 2010/09/30 16:05
+#
+#============================================================================
+ 
 DATA=$(date "+%Y%m%d")
 HORA=$(date "+%H%M%S")
 
